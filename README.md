@@ -16,17 +16,17 @@ Jurig Slayer
     <tr>
       <td>Muhammad Naufal Abdillah</td>
       <td>G64180016</td>
-      <td>Game Programmer</td>
+      <td>Game Artist</td>
     </tr>
     <tr>
       <td>Zahwa Wahyu Riana</td>
       <td>G64180070</td>
-      <td>Game Artist</td>
+      <td>Game Artist, Programmer</td>
     </tr>
     <tr>
       <td>Muhammad Andhika Gema Putra</td>
       <td>G64180055</td>
-      <td>Game Designer</td>
+      <td>Game Designer, Programmer</td>
     </tr>
   </tbody>
   </table>
