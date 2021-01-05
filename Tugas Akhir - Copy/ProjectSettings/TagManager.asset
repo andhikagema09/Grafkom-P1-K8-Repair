@@ -16,7 +16,7 @@ TagManager:
   - 
   - 
   - Players
-  - Enemies
+  - enemy
   - Collectibles
   - 
   - 
@@ -42,6 +42,9 @@ TagManager:
   m_SortingLayers:
   - name: Background
     uniqueID: 4104552405
+    locked: 0
+  - name: Back1
+    uniqueID: 2613580913
     locked: 0
   - name: Decor
     uniqueID: 2330637571

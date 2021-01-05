@@ -59,11 +59,8 @@ public class Heart : MonoBehaviour
 
     private void Die()
     {
-        animator.SetBool("Death", true);
-        animator.SetFloat("Speed", 0);
-        animator.SetInteger("isJumping", 0);
-        animator.Play("Hawk_Death");
-        //FindObjectOfType<GameManager>().EndGame();
+        animator.SetBool("isDead", true);
+        GetComponent<PlayerCombat>().enabled = false;
         GetComponent<CharacterController2D>().enabled = false;
         GetComponent<PlayerMovement>().enabled = false;
         this.enabled = false;
