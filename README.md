@@ -35,7 +35,7 @@ Jurig Slayer
 Platformer
   
 ## Story
-Anda bermimpi ingin masuk pada dunia afterlife yang penuh dengan succubus yang menggoda, namun nyatanya anda terjerumus ke dunia yang penuh dengan setan, dan setan itu akan terus menyerang anda. Tentu saja anda ingin keluar dari dunia yang tidak menyenangkan ini. Anda hanya diberikan sebuah pedang untuk melawannya.
+Anda bermimpi ingin masuk pada dunia afterlife yang penuh dengan succubus yang menggoda, namun nyatanya anda terjerumus ke dunia yang penuh dengan setan buruk rupa, dan setan itu akan terus menyerang anda. Tentu saja anda ingin keluar dari dunia yang tidak menyenangkan ini. Anda hanya diberikan sebuah pedang untuk melawannya.
   
   ## Rules
   - Anda diberikan pedang untuk melawan setan yang ada di hadapan anda
